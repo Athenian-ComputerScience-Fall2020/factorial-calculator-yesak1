@@ -1,4 +1,4 @@
-# Collaborators: I asked my uncle for some tips as he has some python experience.
+# Collaborators:  I asked my uncle for some tips as he has some python experience.
 def factorialcalc(num):   #you may choose the name of the parameter
     if num==1:
         return num
