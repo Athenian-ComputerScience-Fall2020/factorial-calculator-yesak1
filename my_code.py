@@ -1,4 +1,4 @@
-# Collaborators:  I asked my uncle for some tips as he has some python experience. He didn't entirely know how to do it either but he gave me some tips. So, I did some research and I used some info from beginnersbook.com.
+# Collaborators:  I asked my uncle for some tips as he has some python experience. He didn't entirely know how to do it either but he gave me some tips. So, I did some research and I used some info about recursion from beginnersbook.com and Khan Academy.
 def factorialcalc(num):   #you may choose the name of the parameter
     if num==1:
         return num
